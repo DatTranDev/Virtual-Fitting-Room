@@ -134,3 +134,4 @@ C:\Users\DAT\Desktop\Workspace\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\n
 C:\Users\DAT\Desktop\Workspace\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0\VirtualFittingRoom.pdb
 C:\Users\DAT\Desktop\Workspace\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0\VirtualFittingRoom.genruntimeconfig.cache
 C:\Users\DAT\Desktop\Workspace\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0\ref\VirtualFittingRoom.dll
+C:\Users\DAT\Desktop\Workspace\VirtualFittingRoom\VirtualFittingRoom\obj\Debug\net8.0\VirtualFittingRoom.sourcelink.json

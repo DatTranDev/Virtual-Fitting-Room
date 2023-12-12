@@ -28,3 +28,14 @@ body {
     text-align:center;
     margin-bottom:20px;
 }
+
+/*Filter*/
+.filter{
+    align-self: center;
+    height: 40px;
+    width:max-content;
+}
+.text-filter{
+    margin-top: 10px;
+    margin-right: 10px;
+}
