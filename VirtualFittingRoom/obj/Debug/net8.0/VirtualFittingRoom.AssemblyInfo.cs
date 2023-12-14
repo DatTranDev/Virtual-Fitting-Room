@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualFittingRoom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3a59029b87bc2873d7b4126d4f5f58887453af5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualFittingRoom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualFittingRoom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
